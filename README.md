@@ -20,3 +20,13 @@ Hi i am Swaroopa 👋<br> I am a data lover, have passion in extracting insights
 [![](https://visitcount.itsvg.in/api?id=swaroopamummadi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=swaroopamummadi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=swaroopamummadi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
